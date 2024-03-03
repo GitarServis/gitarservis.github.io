@@ -1,16 +1,10 @@
 ---
 title: Gitar Servis
-feature_text: Servis za popravku i restauraciju gitara
-  ## Usluge
-  U nasem servisu mozete da dobijete razne servisne usluge kao sto je :
-
-- Setap
-- Brusenje i poliranje pragova
-- Zamena pragova
-- Saniranje ostecenja
-- Restauracija
-- Razne vrste popravki
-- Usluge farbanja
+feature_text: |
+  ## Gitar
+  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+feature_image: "https://picsum.photos/1300/400?image=989"
+excerpt: "ALKSJDALKSDJALKSDJALKSJDALKSDJALKSJDALSKJDALKSDJALKSJDLAKSDJ"
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
