@@ -3,7 +3,7 @@ title: Gitar Servis
 feature_text: |
   ## Gitar Servis
   Servis za popravku, restauraciju i farbanje gitara
-feature_image: "[https://picsum.photos/1300/400?image=989](https://images.unsplash.com/photo-1535587566541-97121a128dc5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)"
+feature_image: "https://images.unsplash.com/photo-1535587566541-97121a128dc5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 excerpt: "ALKSJDALKSDJALKSDJALKSJDALKSDJALKSJDALSKJDALKSDJALKSJDLAKSDJ"
 ---
 
