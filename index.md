@@ -3,13 +3,13 @@ title: Servis za popravku gitara Kragujevac
 feature_text: |
   ## Gitar Servis
   Servis za popravku, restauraciju i farbanje gitara
-feature_image: "[https://images.unsplash.com/photo-1535587566541-97121a128dc5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D](https://images.unsplash.com/photo-1535587566541-97121a128dc5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)"
+feature_image: "https://scontent.fbeg1-1.fna.fbcdn.net/v/t39.30808-6/351481385_795165785662792_5852227953332590296_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=783fdb&_nc_ohc=cv_Q8QP3SmsAX8qs80u&_nc_ht=scontent.fbeg1-1.fna&oh=00_AfBofWYP47EJ_yr7l_UDdUT6irf-G3UTOJcv1zdB1EXukQ&oe=65E98D0B"
 excerpt: "ALKSJDALKSDJALKSDJALKSJDALKSDJALKSJDALSKJDALKSDJALKSJDLAKSDJ"
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+Servis za profesionalan Set-Up i propravku gitara stacioniran u centru Kragujevca.
 
-{% include button.html text="Instagram" icon="instagram" link="https://www.instagram.com/gitar_servis_kragujevac/" color="#0366d6" %} {% include button.html text="Facebook" link="https://www.facebook.com/gitarservis/" color="#f68140" %}
+{% include button.html text="Instagram" icon="instagram" link="https://www.instagram.com/gitar_servis_kragujevac/" color="#0366d6" %} {% include button.html text="Facebook" icon="facebook" link="https://www.facebook.com/gitarservis/" color="#f68140" %}
 
 ## Usluge
 
